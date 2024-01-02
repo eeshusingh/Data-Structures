@@ -1,4 +1,4 @@
-// UMBC - CMSC 341 - Spring 2022 - Proj0
+
 #include "section.h"
 
 class Tester{

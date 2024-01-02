@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Spring 2022 - Proj0
 // Name: Eeshu Singh
 #include "section.h"
 Section::Section(){

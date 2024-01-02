@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Spring 2022 - Proj0
 #ifndef SECTION_H
 #define SECTION_H
 #include <iostream>

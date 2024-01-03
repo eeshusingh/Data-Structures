@@ -7,7 +7,7 @@ const char* PASS_STATEMENT = "     TEST PASSED: ";
 class Tester{
     public:
     /******************************************
-    * Test function declarations go here! *
+    * Test function declarations! *
     ******************************************/
     bool testInsertHeadNormalCase();
     bool testInsertHeadErrorCase();

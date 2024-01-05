@@ -1,4 +1,4 @@
-// Name: Eeshu Singh
+
 #include "section.h"
 Section::Section(){
 	m_numStudents = 0;

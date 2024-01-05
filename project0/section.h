@@ -5,7 +5,7 @@
 #include <random>
 using namespace std;
 
-class Tester;//this is your tester class, you add your test functions in this class
+class Tester;
 enum RANDOM {UNIFORMINT, UNIFORMREAL, NORMAL};
 class Random {
 public:

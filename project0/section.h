@@ -74,7 +74,7 @@ public:
 };
 class Section{
     public:
-    friend class Grader;
+
     friend class Tester;
     Section();
     Section(int items, int students);

@@ -12,9 +12,7 @@ class Tester{
     // the following is implemented as a test case example
     bool testStudentAveErrorCase();
 
-    /******************************************
-    * Test function declarations go here! *
-    ******************************************/
+
     bool testCreateSectionNormalCase();
     bool testCreateSectionEdgeCase();
     bool testCreateSectionErrorCase(); 

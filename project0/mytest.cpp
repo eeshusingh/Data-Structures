@@ -1,5 +1,5 @@
 
-// Name: Eeshu Singh
+
 #include "section.h"
 
 const char* FAIL_STATEMENT = "*****TEST FAILED: ";

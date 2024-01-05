@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <random>
 using namespace std;
-class Grader;
+
 class Tester;//this is your tester class, you add your test functions in this class
 enum RANDOM {UNIFORMINT, UNIFORMREAL, NORMAL};
 class Random {

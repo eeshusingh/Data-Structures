@@ -92,8 +92,6 @@ class Section{
     int m_numGradingItems;
     double ** m_grades;// the 2d structure to store grades
 
-    /******************************************
-    * Private function declarations go here! *
-    ******************************************/
+   
 };
 #endif
